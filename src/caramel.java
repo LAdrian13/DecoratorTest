@@ -12,7 +12,7 @@ public class caramel extends flavorDecorator {
 	}
 
 	public String description() {
-		return bakedGood.description() + "caramel";
+		return bakedGood.description() + "caramel ";
 	}
 
 }

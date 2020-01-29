@@ -12,7 +12,7 @@ public class whipCream extends flavorDecorator {
 	}
 
 	public String description() {
-		return bakedGood.description() + "whipcream";
+		return bakedGood.description() + "whipcream ";
 	}
 
 }

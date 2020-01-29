@@ -9,4 +9,3 @@ public class brownies extends BakedGood{
 		description = "I am a chunky brownie!";
 	}
 }
-

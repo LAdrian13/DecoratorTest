@@ -12,7 +12,7 @@ public class peanuts extends flavorDecorator {
 	}
 
 	public String description() {
-		return bakedGood.description() + "peanuts";
+		return bakedGood.description() + "peanuts ";
 	}
 
 }
